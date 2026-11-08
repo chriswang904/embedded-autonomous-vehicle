@@ -78,12 +78,6 @@
     "sha256": "5b653790305f6fa75cd20d29d66621a1b221250083398c62f2a38a0ecd743bfd"
   },
   {
-    "original_archive": "project1-group2-main.zip",
-    "original_path": "project1-group2-main/Sources/semihost_hardfault.c",
-    "path": "firmware/freertos-k66/Sources/semihost_hardfault.c",
-    "sha256": "c15490e876928a6b71ad32c552c09514a1c626ea14edd1b0c16a79a50edae145"
-  },
-  {
     "original_archive": "project2-group2-main.zip",
     "original_path": "project2-group2-main/source_code/hello_world.py",
     "path": "companion/raspberry-pi/hello_world.py",
