@@ -1,0 +1,110 @@
+[
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Accelerometer_Component.c",
+    "path": "firmware/freertos-k66/Sources/Accelerometer_Component.c",
+    "sha256": "a885837c9ca3662525bc4716b54b5f7f1f505699adf3fa6c796abe0fa0fa56a7"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Accelerometer_Component.h",
+    "path": "firmware/freertos-k66/Sources/Accelerometer_Component.h",
+    "sha256": "395b14081976aa5da3eb9b36bb39b93d70c91fa7f5b3934cc19f11f3440486c3"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/FreeRTOSConfig.h",
+    "path": "firmware/freertos-k66/Sources/FreeRTOSConfig.h",
+    "sha256": "387236f5efdc2644cb0edc80027617b2d52e465110a4c28ec89df0ba6514eff2"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/LED_Component.c",
+    "path": "firmware/freertos-k66/Sources/LED_Component.c",
+    "sha256": "70ad44d4674dee1099e89f409a45f84c316835acd5b2a7afc92fa0e4d731f8d0"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/LED_Component.h",
+    "path": "firmware/freertos-k66/Sources/LED_Component.h",
+    "sha256": "4ff292b4ce9ee92b59581ec1e063b81506d65b253825173b71040ac9357143fc"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Motor_Control_Component.c",
+    "path": "firmware/freertos-k66/Sources/Motor_Control_Component.c",
+    "sha256": "69813c93d138b810385d3ab24f3c4bc172b32beee7e2392be61f699a9531eae8"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Motor_Control_Component.h",
+    "path": "firmware/freertos-k66/Sources/Motor_Control_Component.h",
+    "sha256": "06a234ed155e02772d136dd2e713039844e4190efcbf3398463643209f2687d9"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/RC_Receiver_Component.c",
+    "path": "firmware/freertos-k66/Sources/RC_Receiver_Component.c",
+    "sha256": "0ea04452920ce96155d878b4e492baadc60aa6d3e6e98839082e96d87af99c32"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/RC_Receiver_Component.h",
+    "path": "firmware/freertos-k66/Sources/RC_Receiver_Component.h",
+    "sha256": "c8a837d9cf65c786799ce6cb6535993d679dc75c5ee33e48d7a51e3ad6a8344e"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Sources.dm",
+    "path": "firmware/freertos-k66/Sources/Sources.dm",
+    "sha256": "489a51dc525a8978330d6290af0b339dd354cc2cbd288a8215680f566da8d384"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Terminal_Component.c",
+    "path": "firmware/freertos-k66/Sources/Terminal_Component.c",
+    "sha256": "a91456da4cdb69b4d9aa315ffcad8e6bcbe5d9bdb3a7f0347e97aa83b2c7e4d7"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/Terminal_Component.h",
+    "path": "firmware/freertos-k66/Sources/Terminal_Component.h",
+    "sha256": "0787ee32b2073769865d889a440ca32a25f1ce7d361ca782184fa92217466f07"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/freertos_hello.c",
+    "path": "firmware/freertos-k66/Sources/freertos_hello.c",
+    "sha256": "5b653790305f6fa75cd20d29d66621a1b221250083398c62f2a38a0ecd743bfd"
+  },
+  {
+    "original_archive": "project1-group2-main.zip",
+    "original_path": "project1-group2-main/Sources/semihost_hardfault.c",
+    "path": "firmware/freertos-k66/Sources/semihost_hardfault.c",
+    "sha256": "c15490e876928a6b71ad32c552c09514a1c626ea14edd1b0c16a79a50edae145"
+  },
+  {
+    "original_archive": "project2-group2-main.zip",
+    "original_path": "project2-group2-main/source_code/hello_world.py",
+    "path": "companion/raspberry-pi/hello_world.py",
+    "sha256": "5d1559bd85082eda8c0dcb46091cb508e77e26cd08c4f3941cfab30cf41ea0b3"
+  },
+  {
+    "original_archive": "project2-group2-main.zip",
+    "original_path": "project2-group2-main/source_code/hello_world_part1.cpp",
+    "path": "firmware/px4/examples/hello_world_part1.cpp",
+    "sha256": "79958a6078909b3fd9c94dca0be8d94c50b5989d4b085281568c7059a39c0452"
+  },
+  {
+    "original_archive": "project2-group2-main.zip",
+    "original_path": "project2-group2-main/source_code/hello_world_part2.cpp",
+    "path": "firmware/px4/examples/hello_world_part2.cpp",
+    "sha256": "d5de0fe5015ad337be04c36c3dcde0a8d99e5c957438c14a73a51e38184fa4d3"
+  },
+  {
+    "original_archive": "project2-group2-main.zip",
+    "original_path": "project2-group2-main/source_code/hello_world_step0.cpp",
+    "path": "firmware/px4/examples/hello_world_step0.cpp",
+    "sha256": "8580090b95d37b70f67e8908c58900b5b3f57e5a9ba10624d18c2ecc4cf5a4cb"
+  }
+]
