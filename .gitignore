@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+*.elf
+*.bin
+*.hex
+*.o
+.vscode/
+.DS_Store
+Thumbs.db
