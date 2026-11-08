@@ -1,0 +1,5 @@
+# Dependency inventory only; versions were not supplied or revalidated.
+pymavlink
+RPi.GPIO
+opencv-python
+numpy
