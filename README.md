@@ -2,7 +2,7 @@
 
 A two-stage university team project exploring embedded vehicle control: **FreeRTOS firmware on an NXP K66 ARM Cortex-M4**, followed by **PX4/uORB control with a Raspberry Pi perception companion**.
 
-The repository brings the two stages together for review while retaining their separate firmware environments. Source files are preserved byte-for-byte from the supplied project archives; this is an archival portfolio consolidation, not a newly validated release.
+The repository brings the two stages together for review while retaining their separate firmware environments. Source logic is retained from the supplied project archives (text line endings may be normalized on upload); this is an archival portfolio consolidation, not a newly validated release.
 
 ## What the code demonstrates
 
@@ -48,3 +48,7 @@ The accelerometer component and parts of the terminal component are placeholders
 ## Team context
 
 Originally developed as McMaster COMPENG 4DS4 Group 2 coursework. This portfolio copy is maintained by Chris Wang and includes team-produced code. Individual module authorship is not established by the ZIP snapshots. See [provenance](docs/provenance.md) before attributing individual contributions or reusing the code.
+
+## Vendor support dependency
+
+`semihost_hardfault.c` is excluded from this public repository because its header marks it NXP Confidential and license-controlled. Obtain any required fault-handler support through your authorized NXP SDK installation; this repository does not redistribute that file.
